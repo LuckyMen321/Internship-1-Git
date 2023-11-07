@@ -1,6 +1,6 @@
-Zoran ima 0 pobjeda i 0 poraza!
-Frane ima 0 pobjeda i 0 poraza!
+Zoran ima 0 pobjeda i 1 poraza!
+Frane ima 1 pobjeda i 0 poraza!
 
 . x x
-. o o
+. o .
 . x o
